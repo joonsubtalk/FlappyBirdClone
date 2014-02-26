@@ -1,4 +1,4 @@
-package com.joonsub.flappybird;
+package com.joonsub.FlappyBird;
 
 import com.badlogic.gdx.Game;
 import com.joonsub.Screen.GameScreen;

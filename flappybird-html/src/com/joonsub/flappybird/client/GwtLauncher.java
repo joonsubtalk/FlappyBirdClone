@@ -1,6 +1,6 @@
 package com.joonsub.flappybird.client;
 
-import com.joonsub.flappybird.FlappyBird;
+import com.joonsub.FlappyBird.FlappyBird;
 import com.badlogic.gdx.ApplicationListener;
 import com.badlogic.gdx.backends.gwt.GwtApplication;
 import com.badlogic.gdx.backends.gwt.GwtApplicationConfiguration;
